@@ -1,0 +1,52 @@
+
+
+/*<--Header-->*/
+
+.header{
+	text-align: center;
+	padding-top: 30px;
+
+}
+
+.header h1, h2 {
+	font-family:'Neuton', serif;
+}
+
+.header h1{
+	font-size: 55px;
+	color:#718999;
+}
+
+.header h2{
+	font-size: 34px;
+	color:#FFA696;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+html, body {
+  margin: 0;
+  padding: 0;
+  height:100%;
+}
+
+@media (max-width: 500px) {
+  .header h1 {
+    text-align: center;
+  }
