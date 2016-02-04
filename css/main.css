@@ -65,6 +65,14 @@
 
 }
 
+.col-sm-4{
+	color: #CC3131;
+}
+
+.col-sm-8{
+	color: #718999;
+}
+
 .box{
 	padding-bottom: 50px;
 	border: 1px solid black;
