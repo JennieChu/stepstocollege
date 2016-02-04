@@ -70,6 +70,9 @@
 	border: 1px solid black;
 }
 
+.events{
+	margin-top: 10px;
+}
 
 
 html, body {
@@ -82,3 +85,4 @@ html, body {
   .header h1 {
     text-align: center;
   }
+
