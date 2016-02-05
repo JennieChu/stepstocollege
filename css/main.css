@@ -94,6 +94,10 @@
 	font-size: 12px;
 }
 
+/*<--filter-->*/
+.selected {
+  border: 5px solid #56FFE7;
+}
 
 html, body {
   margin: 0;
