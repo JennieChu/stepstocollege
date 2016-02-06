@@ -13,9 +13,9 @@ var main = function() {
 				$('.box').removeClass('selected');
 				$('.CSU').addClass('selected');
 				$('.All').addClass('selected');
-			}else if(category==="cc"){
+			}else if(category==="community"){
 				$('.box').removeClass('selected');
-				$('.UC').addClass('selected');
+				$('.CC').addClass('selected');
 				$('.All').addClass('selected');
 			}else if (category==="undo"){
 				$('.box').removeClass('selected');
