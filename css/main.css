@@ -96,7 +96,8 @@
 
 /*<--filter-->*/
 .selected {
-  border: 5px solid #56FFE7;
+  border: 3px solid #AECCFF;
+  background-color: #E0E0E0 ;
 }
 
 html, body {
