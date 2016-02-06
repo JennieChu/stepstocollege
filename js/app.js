@@ -13,10 +13,12 @@ var main = function() {
 				$('.box').removeClass('selected');
 				$('.CSU').addClass('selected');
 				$('.All').addClass('selected');
-			}else if(category="cc"){
+			}else if(category==="cc"){
 				$('.box').removeClass('selected');
-				$('.CC').addClass('selected');
+				$('.UC').addClass('selected');
 				$('.All').addClass('selected');
+			}else if (category==="undo"){
+				$('.box').removeClass('selected');
 			}
 	});
 };
